@@ -1,0 +1,17 @@
+# Ignore environment config
+.env
+
+# Ignore Composer's vendor folder
+/vendor/
+
+# Ignore logs in storage
+/storage/logs/*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.cache
+*.log
